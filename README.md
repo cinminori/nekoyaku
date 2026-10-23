@@ -47,8 +47,7 @@ Android 漫畫網站翻譯瀏覽器：在內建瀏覽器裡看韓漫、日漫網
 | 網站 | 狀態 |
 |---|---|
 | KakaoPage、RIDI、bomtoon、Mr.blue（韓） | 已實測 |
-| BookWalker（日）直向捲動／翻頁模式 | 已實測 |
-| BookWalker（台）、ebookjapan、beltoon | 尚未實測 |
+| BookWalker（日）直向捲動／翻頁模式、beltoon（日） | 已實測 |
 
 App 不下載、不保存任何漫畫圖片，只是在你登入的網站上就地翻譯。
 
