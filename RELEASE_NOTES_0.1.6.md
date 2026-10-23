@@ -5,5 +5,6 @@ NekoYaku 第一個公開版本。
 - 文A 網頁介面翻譯（Google）
 - BookWalker 直向捲動與翻頁模式
 - 電子紙模式
+- 起始頁預設站點只留實測過的站
 
 支援 Android 7.0+、arm64。安裝後到設定填 Gemini API Key 即可使用。
