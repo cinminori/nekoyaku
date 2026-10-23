@@ -27,7 +27,7 @@ Android 漫畫網站翻譯瀏覽器：在內建瀏覽器裡看韓漫、日漫網
 - **翻譯模型**：Gemini、Claude（官方 API）、任何 OpenAI 相容端點（OpenRouter、自架 proxy…）
 - **電子紙模式**：e-ink 裝置自動切換高對比、無動畫介面
 
-<p align="center"><img src="screenshots/start-page.png" width="360" alt="起始頁"></p>
+<p align="center"><img src="screenshots/start-page.png" width="280" alt="起始頁"> <img src="screenshots/settings-model.png" width="280" alt="翻譯模型設定"> <img src="screenshots/about.png" width="280" alt="關於"></p>
 
 ## 開始使用
 
