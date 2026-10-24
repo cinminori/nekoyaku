@@ -25,7 +25,7 @@ Android 漫畫網站翻譯瀏覽器：在內建瀏覽器裡看韓漫、日漫網
 - **日漫對話框蓋字**：日文對話框可以把譯文直排蓋進框裡，塞不下自動退回旁註（可在譯文選單關閉）
 - **網頁介面翻譯（文A）**：用 Google 翻譯或輕量模型把網站選單、簡介翻成中文
 - **翻譯模型**：Gemini、Claude（官方 API）、任何 OpenAI 相容端點（OpenRouter、自架 proxy…）
-- **電子紙模式**：e-ink 裝置自動切換高對比、無動畫介面
+- **電子紙模式**：e-ink 裝置自動切換高對比、無動畫介面；翻譯中畫面左右有翻頁區，點一下整頁跳、不用滑
 
 <p align="center"><img src="screenshots/start-page.png" width="280" alt="起始頁"> <img src="screenshots/settings-model.png" width="280" alt="翻譯模型設定"> <img src="screenshots/about.png" width="280" alt="關於"></p>
 
