@@ -32,6 +32,8 @@ Android 漫畫網站翻譯瀏覽器：在內建瀏覽器裡看韓漫、日漫網
 
 ## 開始使用
 
+圖文版使用說明（含 API key 申請、費用與各模型官方定價）：[NekoTranslate 使用說明](https://ancient-freckle-1b1.notion.site/NekoTranslate-3076d20adfde800c9e0bf2c8b0e2e133)
+
 1. 到 [Google AI Studio](https://aistudio.google.com/apikey) 申請一組 Gemini API Key（免費）
 2. 打開 NekoYaku → 右上角「⋮」→「設定」→ 貼上 Key
 3. 從起始頁點一個站，登入你自己的帳號，打開一話漫畫
